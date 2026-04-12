@@ -1,4 +1,4 @@
-# Detecting the Presence of Invasive Ductal Carcinoma in Breast Histology Images using Convolutional Neural Networks
+# Invasive Ductal Carcinoma Detection in Breast Histology Images using Convolutional Neural Networks
 
 A simple and effective method for the classification of H&E stained breast histology images.
 
