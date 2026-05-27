@@ -37,8 +37,6 @@ invasive-ductal-carcinoma/
 
 ### 2. Data Augmentation
 
-Typical augmentation methods include:
-
 - Rotation
 - Horizontal and vertical flipping
 - Zooming
@@ -46,8 +44,6 @@ Typical augmentation methods include:
 - Brightness adjustments
 
 ### 3. Model Development
-
-The project may include one or more deep learning architectures such as:
 
 - Custom CNN
 - ResNet
@@ -57,8 +53,6 @@ The project may include one or more deep learning architectures such as:
 
 ### 4. Training
 
-Common training components include:
-
 - Binary cross-entropy loss
 - Adam optimizer
 - Learning rate scheduling
@@ -66,8 +60,6 @@ Common training components include:
 - Model checkpointing
 
 ### 5. Evaluation
-
-Model performance can be evaluated using:
 
 - Accuracy
 - Precision
